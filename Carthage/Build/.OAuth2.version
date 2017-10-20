@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "OAuth2",
+      "hash" : "5af3e08883766b5662ef87375ecd8249e1552103b87258aaa8821bc7a77d6899"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "OAuth2",
+      "hash" : "df93d9c127e361d1faa88d27d0a62c39f7a43c3c9a3cb6f5d4efa1b103e3594e"
+    }
+  ],
+  "commitish" : "3.0.3",
+  "iOS" : [
+    {
+      "name" : "OAuth2",
+      "hash" : "923800d58e0a37dac7afb36c41a61e0e921f88318eabafe05b07e3405917d2f5"
+    }
+  ]
+}
